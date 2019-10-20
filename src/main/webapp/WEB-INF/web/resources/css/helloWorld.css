@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizzing: boder-box;
+}
+
+body{
+	background-color: black;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#main-msg{
+	font-size: 100px;
+	color: white;
+	text-align: center;
+}
